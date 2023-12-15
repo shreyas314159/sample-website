@@ -1,0 +1,12 @@
+.nav-menu {
+  text-align: right;
+}
+.nav-spacing {
+  margin: 0 0 0 10px;
+}
+
+#founder{
+  text-align: center;
+  text-shadow: #00A233;
+  color: darkred;
+}
